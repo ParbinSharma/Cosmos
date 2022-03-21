@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cosmos/static/css/main.9ae96e36.css",
-    "main.js": "/Cosmos/static/js/main.83f6dbc6.js",
+    "main.js": "/Cosmos/static/js/main.78e8ea2d.js",
     "static/js/787.19728118.chunk.js": "/Cosmos/static/js/787.19728118.chunk.js",
     "static/media/blackhole.jpg": "/Cosmos/static/media/blackhole.8a19e1fa9d168bd33e9b.jpg",
     "static/media/blackgif.gif": "/Cosmos/static/media/blackgif.392e13e6b6e7d59241a7.gif",
@@ -53,11 +53,11 @@
     "static/media/collide.jpeg": "/Cosmos/static/media/collide.7491cd984822c742a05a.jpeg",
     "index.html": "/Cosmos/index.html",
     "main.9ae96e36.css.map": "/Cosmos/static/css/main.9ae96e36.css.map",
-    "main.83f6dbc6.js.map": "/Cosmos/static/js/main.83f6dbc6.js.map",
+    "main.78e8ea2d.js.map": "/Cosmos/static/js/main.78e8ea2d.js.map",
     "787.19728118.chunk.js.map": "/Cosmos/static/js/787.19728118.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9ae96e36.css",
-    "static/js/main.83f6dbc6.js"
+    "static/js/main.78e8ea2d.js"
   ]
 }
